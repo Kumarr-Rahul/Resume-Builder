@@ -1,0 +1,25 @@
+node -v //To show current nvm version
+
+nvm install version //To install specific nvm version
+
+nvm list //To show all installed nvm version
+
+nvm use version //To change nvm version
+
+use nvm version 14.17.6 in case of error
+
+Deployment
+npm install firebase-tools -g
+firebase login
+use nvm 14.18.0(minimum)
+
+firebase login
+
+1.firebase init
+2.Choose hosting with optional github auth
+3.public directory -> build
+4.Single Page -> yes
+5.github action -> no
+6.firebase deploy
+7.npm run build
+8.firebase deploy
