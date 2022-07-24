@@ -23,3 +23,5 @@ firebase login
 6.firebase deploy
 7.npm run build
 8.firebase deploy
+
+https://resume-builder-f33c8.web.app/login
